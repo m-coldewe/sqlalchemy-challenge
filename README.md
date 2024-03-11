@@ -17,12 +17,15 @@ The second part of the project creates a Flask API using the data queried in the
 
 ## Result
 
-![app_homepage](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/aa6a52a5-31a8-4e2b-87ee-c61bee80b2ed)
-
 ![precipitation](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/ca03009b-a7e7-4cfc-a7fd-ea8ae82bb3be)
 
 ![tobs](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/2207656e-6a0f-43c1-bb66-ae46ba5b7d20)
 
+![app_homepage](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/db3f0ccc-afe5-4d24-af41-88817ab02bf0)
+
+![precipitation_route](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/7568bab0-41ce-4cf0-aaf8-c07431e9bc2a)
+
+![tstats](https://github.com/m-coldewe/sqlalchemy-challenge/assets/152045367/21d37c56-b40e-4075-943e-fa8037d53a78)
 
 
 ## Summary
