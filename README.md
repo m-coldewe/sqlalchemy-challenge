@@ -15,6 +15,8 @@ From there, we pivot to analysis by station. From the list of stations, the code
 
 The second part of the project creates a Flask API using the data queried in the first part. The APi consists of six routes: home, precpitation, stations, temperature for the most active station for the previous year, an route that let the user search either by start date, or by start date and end date. 
 
+I received assistance with the graphs from tutor Kourt, and with the syntax for the date routes from my instructor, Haroon. 
+
 ## Result
 
 Output for precipitation by date:
